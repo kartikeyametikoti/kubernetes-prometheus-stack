@@ -1,0 +1,14 @@
+apiVersion: v2
+appVersion: "v9.0.1"
+description: A Helm chart for the Prometheus Fastly Exporter
+name: prometheus-fastly-exporter
+version: 0.5.1
+keywords:
+  - metrics
+  - fastly
+  - monitoring
+home: https://github.com/fastly/fastly-exporter
+maintainers:
+  - name: arslanbekov
+    email: arslanbekov@gmail.com
+    url: https://github.com/arslanbekov
